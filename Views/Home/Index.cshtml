@@ -1,0 +1,49 @@
+﻿@model TrialCustomer
+@{
+    ViewData["Title"] = DateTime.Now.ToLongTimeString();
+}
+
+<div class="container-fluid">
+    <div class="d-flex">
+        <div class="flex-column col-8">
+            <div class="row mt-0">
+                <div class="flex-column col-4">
+                    <img class="img-fluid" src="images/cricket.png" />
+                </div>
+                <div class="flex-column col-8">
+                    <h4 class="text-success">Cricket</h4>
+                    <p>
+                        Loremh jfsihiotehiothio tjjeiosjtiosehiohio
+                    </p>
+                    <p>
+                        Loremh jfsihiotehiothio tjjeiosjtiosehiohio
+                    </p>
+                </div>
+            </div>
+
+             <div class="row mt-4">
+                <div class="flex-column col-4">
+                    <img class="img-fluid" src="images/football.png" />
+                </div>
+                <div class="flex-column col-8">
+                    <h4 class="text-success">Football tested</h4>
+                    <p>
+                        Loremh jfsihiotehiothio FootballFootballFootballFootballtjjeiosjtiosehiohio gdsgdsg
+                    </p>
+                    <p>
+                        Loremh jfsihiotehiothio FootballFootballFootballFootball tjjeiosjtiosehiohio fgfh
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="d-flex col-4">
+            <div id="CustomerList">
+                <!---Partial View Area-->
+                <partial name="_TrialCustomer" model="Model" />
+            </div>
+        </div>
+    </div>
+
+</div>

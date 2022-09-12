@@ -1,0 +1,31 @@
+﻿@model TrialCustomer
+<div class="card mt-0">
+    <div class="card-header">
+        <h4 class="text-center">
+            Registration Successful
+        </h4>
+        <br />
+
+        <h5 class="text-center">
+           @DateTime.Now.ToLongTimeString();
+        </h5>
+        <hr />
+
+        <div class="row">
+            <div class="col-12">
+                <h6>Hello @Model.FirstName @Model.LastName</h6>
+                <br />
+                <h5 class="text-center">Thank You For Regisering</h5>
+                <br />
+                <p>We will send you the details about the training dates to @Model.EmailId shortly.</p>
+                 <p>Feel free to contact us for any queries.</p>
+                 <h6>We hope to see you soon.</h6>
+                 <br />
+                 <hr />
+
+                 <h6>Best Regards,</h6>
+                 <h6>Customer Service</h6>
+            </div>
+        </div>
+    </div>
+</div>
