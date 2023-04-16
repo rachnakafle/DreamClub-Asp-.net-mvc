@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yOjMobOwkSzlRdi5HnrBQ7wKXcr/goU1SSYR1sYFdOLXWTfoGBEfcJ4l4zU7bfOWPyrQ0NLT/QJmYqV3pf0qHg==",
+  "dgSpecHash": "802/9xxjWRokRy/9fSycsoeLCVHb8lFihEWyFar4YXJxb6VuFRuXw7JVUnntmMUtaqggsY4F0PskfEi3KFMXRw==",
   "success": true,
-  "projectFilePath": "D:\\DotNet\\Practice\\DreamClub\\DreamClub.csproj",
+  "projectFilePath": "D:\\DotNet\\MVC\\Practice\\DreamClub\\DreamClub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

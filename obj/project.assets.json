@@ -7253,11 +7253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\Practice\\DreamClub\\DreamClub.csproj",
+      "projectUniqueName": "D:\\DotNet\\MVC\\Practice\\DreamClub\\DreamClub.csproj",
       "projectName": "DreamClub",
-      "projectPath": "D:\\DotNet\\Practice\\DreamClub\\DreamClub.csproj",
+      "projectPath": "D:\\DotNet\\MVC\\Practice\\DreamClub\\DreamClub.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\Practice\\DreamClub\\obj\\",
+      "outputPath": "D:\\DotNet\\MVC\\Practice\\DreamClub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
